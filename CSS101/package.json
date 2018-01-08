@@ -1,0 +1,21 @@
+{
+  "name": "ccs-workshop",
+  "version": "1.0.1",
+  "description": "Workshop css nivel basico",
+  "author": "sopazo,rgonzale",
+  "license": "MIT",
+  "repository": "",
+  "contributors": [
+    {
+      "name": "Susana Opazo",
+      "email": "sopazo@thoughtworks.com"
+    },
+    {
+      "name": "Rodrigo González",
+      "email": "rgonzale@thoughtworks.com"
+    }
+  ],
+  "scripts": {
+    "start": "browser-sync start --server --files \"index.html, css/index.css\" "
+  }
+}
